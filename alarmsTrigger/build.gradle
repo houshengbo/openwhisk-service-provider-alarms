@@ -1,0 +1,2 @@
+ext.dockerImageName = 'alarmstrigger'
+apply from: '../gradle/docker.gradle'
